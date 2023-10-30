@@ -50,3 +50,5 @@ Bearer [ваш_токен] После этого вы получите дост�
 public static NpgsqlConnection connecting = new NpgsqlConnection(@"Host=localhost;Port=5432;Database=SimbirGO;Username=postgres;Password=1122334455");
 ```
 Пароль будет зависить от вашего пользователя в PGAdmin или в другой СУБД
+
+Автор: Давид Иус
